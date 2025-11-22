@@ -2,6 +2,8 @@
 
 A lightweight floating task status dashboard built with **Electron**, designed to track and display the live status of commands run remotely from an **ADS server**. It enables developers to monitor builds, test runs, or automation jobs with minimal distraction.
 
+<img width="561" height="358" alt="Screenshot 2025-11-22 145509" src="https://github.com/user-attachments/assets/d0cf2dba-3219-44d3-88f4-50c062c80dd5" />
+
 ---
 
 ## 📐 Architecture Overview
